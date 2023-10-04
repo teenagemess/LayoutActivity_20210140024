@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ActivityLayout</string>
+    <string name="imgnissan">nissan</string>
+    <string name="imgperson">person</string>
+    <string name="imgs15">s15</string>
+    <string name="imggoogle">Google</string>
+    <string name="imgbarcode">Barcode</string>
+    <string name="btnlearn">See more</string>
+    <string name="btn1">Button 1</string>
+    <string name="btn2">Button 2</string>
+    <string name="btnparent">Match Parent</string>
+    <string name="btnleft">Left</string>
+    <string name="btnright">Right</string>
+    <string name="btnarrowleft">-</string>
+    <string name="btnarrowright">-</string>
+    <string name="btnsubmit">Submit</string>
+    <string name="txtname">Name : </string>
+    <string name="txtphone">Phone : </string>
+    <string name="txtaddress">Address : </string>
+    <string name="filltxtname">Enter Your Name</string>
+    <string name="filltxtphone">Enter Your Number</string>
+    <string name="filltxtaddress">Enter Your Address</string>
+    <string name="txtgoogle">Google</string>
+    <string name="txtselect">Select Your Car</string>
+    <string name="txts15">Silvia S15</string>
+    <string name="txtaniv">Happy 25th Anniversary</string>
+</resources>
